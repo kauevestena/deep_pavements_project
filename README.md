@@ -4,7 +4,8 @@
 
 ## About 
 
-Deep Pavements is a framework to leverage open-source tools to produce data about road pavements using CC-compatible street-level Imagery.
+Deep Pavements is a framework to leverage open-source tools to produce data about pathway pavements using CC-compatible street-level Imagery. 
+As a project highlight, the pavement classes are compliant with the OpenStreetMap [surface=*](https://wiki.openstreetmap.org/wiki/Key:surface) tag values. 
 
 The main products that are meant to be created are with the provided tools are:
 
